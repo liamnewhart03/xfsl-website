@@ -1,0 +1,66 @@
+body {
+	margin: 10px;
+	background: #99ccff;
+	font-family: "Gill Sans", sans-serif;
+	padding: 10px;
+	color: #2e67f8;
+}
+
+
+footer {
+	font-size: 10px;
+}
+
+nav ul {
+	margin: 0;
+	display: inline-block;
+}
+
+
+header {
+	background: #2e67f8;
+	color: #99ccff;
+	padding: 0.5px 10px;
+	border-radius: 10px;
+}
+
+.navbar {
+	color: #99ccff;
+	background: white;
+	margin: 10px 5px;
+	padding: 8px 15px;
+	border-radius: 5px;
+	list-style-type: none;
+	display: inline-block;
+
+}
+
+footer {
+	clear: both;
+}
+
+.discordLink {
+	color: white;
+	background: #2e67f8;
+	margin: 0px;
+	border-radius: 10px;
+	padding: 10px 15px;
+}
+
+h1 {
+	margin: 15px 45px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #2e67f8;
+}
+
+
+
+
+
+
+
+
