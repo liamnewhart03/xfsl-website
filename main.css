@@ -1,5 +1,5 @@
 body {
-	margin: 10px;
+	margin: 10px 10px;
 	background: #99ccff;
 	font-family: "Gill Sans", sans-serif;
 	padding: 10px;
@@ -20,7 +20,7 @@ nav ul {
 header {
 	background: #2e67f8;
 	color: #99ccff;
-	padding: 0.5px 10px;
+	padding: 0.5px 0px;
 	border-radius: 10px;
 }
 
@@ -28,7 +28,7 @@ header {
 	color: #99ccff;
 	background: white;
 	margin: 10px 5px;
-	padding: 8px 15px;
+	padding: 8px 5px;
 	border-radius: 5px;
 	list-style-type: none;
 	display: inline-block;
@@ -52,11 +52,6 @@ h1 {
 
 }
 
-a {
-	text-decoration: none;
-	color: #2e67f8;
-}
-
 
 .recordType {
 	background: white;
@@ -69,20 +64,7 @@ a {
 	margin-right: 10px;
 }
 
-.rushYards {
-	background: #2e67f8;
-	color: white;
-	padding: 5px;
-	border-radius: 10px;
-	margin: 3px 0px;
-	width: 255px;
-	height: 20px;
-	vertical-align: middle;
-	text-align: center;
-	list-style-position: outside;
-}
-
-.rushTouchdowns {
+.record {
 	background: #2e67f8;
 	color: white;
 	padding: 5px;
@@ -96,70 +78,16 @@ a {
 }
 
 
-.receptions {
-	background: #2e67f8;
-	color: white;
-	padding: 5px;
-	border-radius: 10px;
-	margin: 3px 0px;
-	width: 255px;
-	height: 20px;
-	vertical-align: middle;
-	text-align: center;
-	list-style-position: outside;
+
+ul li a {
+	padding: 10px;
+	margin: 0px;
+	color: #2e67f8;
+	text-decoration: none;
 }
 
-.receivingYards {
-	background: #2e67f8;
-	color: white;
-	padding: 5px;
-	border-radius: 10px;
-	margin: 3px 0px;
-	width: 255px;
-	height: 20px;
-	vertical-align: middle;
-	text-align: center;
-	list-style-position: outside;
-}
 
-.receivingTouchdowns {
-	background: #2e67f8;
-	color: white;
-	padding: 5px;
-	border-radius: 10px;
-	margin: 3px 0px;
-	width: 255px;
-	height: 20px;
-	vertical-align: middle;
-	text-align: center;
-	list-style-position: outside;
-}
 
-.allPurposeYards {
-	background: #2e67f8;
-	color: white;
-	padding: 5px;
-	border-radius: 10px;
-	margin: 3px 0px;
-	width: 255px;
-	height: 20px;
-	vertical-align: middle;
-	text-align: center;
-	list-style-position: outside;
-}
-
-.totalTouchdowns {
-	background: #2e67f8;
-	color: white;
-	padding: 5px;
-	border-radius: 10px;
-	margin: 3px 0px;
-	width: 255px;
-	height: 20px;
-	vertical-align: middle;
-	text-align: center;
-	list-style-position: outside;
-}
 
 
 
