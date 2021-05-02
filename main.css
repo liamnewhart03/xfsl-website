@@ -135,5 +135,10 @@ a {
 	list-style-position: outside;
 }
 
-
+.est {
+	color: white;
+	position: fixed;
+	top: 32px;
+	left: 595px;
+}
 
