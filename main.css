@@ -27,7 +27,7 @@ header {
 .navbar {
 	color: #99ccff;
 	background: white;
-	margin: 10px 5px;
+	margin: 0px 5px;
 	padding: 8px 15px;
 	border-radius: 5px;
 	list-style-type: none;
@@ -75,7 +75,7 @@ a {
 	padding: 5px;
 	border-radius: 10px;
 	margin: 3px 0px;
-	width: 225px;
+	width: 255px;
 	height: 20px;
 	vertical-align: middle;
 	text-align: center;
@@ -88,7 +88,7 @@ a {
 	padding: 5px;
 	border-radius: 10px;
 	margin: 3px 0px;
-	width: 225px;
+	width: 255px;
 	height: 20px;
 	vertical-align: middle;
 	text-align: center;
@@ -102,7 +102,7 @@ a {
 	padding: 5px;
 	border-radius: 10px;
 	margin: 3px 0px;
-	width: 225px;
+	width: 255px;
 	height: 20px;
 	vertical-align: middle;
 	text-align: center;
@@ -115,7 +115,7 @@ a {
 	padding: 5px;
 	border-radius: 10px;
 	margin: 3px 0px;
-	width: 225px;
+	width: 255px;
 	height: 20px;
 	vertical-align: middle;
 	text-align: center;
@@ -128,7 +128,33 @@ a {
 	padding: 5px;
 	border-radius: 10px;
 	margin: 3px 0px;
-	width: 225px;
+	width: 255px;
+	height: 20px;
+	vertical-align: middle;
+	text-align: center;
+	list-style-position: outside;
+}
+
+.allPurposeYards {
+	background: #2e67f8;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 3px 0px;
+	width: 255px;
+	height: 20px;
+	vertical-align: middle;
+	text-align: center;
+	list-style-position: outside;
+}
+
+.totalTouchdowns {
+	background: #2e67f8;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 3px 0px;
+	width: 255px;
 	height: 20px;
 	vertical-align: middle;
 	text-align: center;
@@ -137,8 +163,8 @@ a {
 
 .est {
 	color: white;
-	position: fixed;
-	top: 32px;
-	left: 595px;
+	position: relative;
+	top: -42px;
+	left: 563px;
 }
 
